@@ -2,6 +2,7 @@
 
 
 This is the source code to get "custom" weapons online in freeroam as well as mp gamemodes.
+- Video Example of These Weapons: https://www.youtube.com/watch?v=DyH6BAyp--Q
 
 
 
