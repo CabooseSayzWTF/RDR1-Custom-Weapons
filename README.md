@@ -24,7 +24,7 @@ This should work on any rdr version (so long as undead dlc is installed or using
 
 
 
-- This script should work fine on a retail console via iso modding (xbox 360)
+- This script should work fine on a retail console via iso modding (xbox 360), so long as you remove the memory pointer from the script.
 
 - Video on how to ER Bypass works pretty much the same on xbox 360 and ps3: https://www.youtube.com/watch?v=JeBuLUAxGUE
 - At mainmenu where it says press start, just unplug your ethernet cable and press start at the same time, replug ethernet cable back in, wait 10-15 seconds and sign back into xbl/psn then go online and if you spawn with the explosive rifle (er) then you did it correctly.
