@@ -1,5 +1,6 @@
 # RDR1-Custom-Weapons-Online
-
+-2/23/2023 added ps3 mem pointer to block auto delete weps. ER bypassed is still needed for this to work properly
+however this mem pointer makes some of the weps show up just fine.
 
 This is the source code to get "custom" weapons online in freeroam as well as mp gamemodes.
 - Video Example of These Weapons: https://www.youtube.com/watch?v=DyH6BAyp--Q
@@ -7,7 +8,6 @@ This is the source code to get "custom" weapons online in freeroam as well as mp
 
 
 This should work on any rdr version (so long as undead dlc is installed or using undead nightmare base game)
-- I have 0 clue if this works on ps3.
 - The "custom" weapons are abusing undead weapon structs, so as is, this replaces most undead weapons with the newer custom weapons
 - You must ER Bypass at mainmenu to use all weapons.
 - ALSO you can only use this or undead weapons, you can't use normal undead weapons and these custom weapons at the same time.
